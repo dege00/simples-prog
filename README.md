@@ -13,6 +13,6 @@ while True:
         media = (primeira_nota + segunda_nota) / 2
 
         print(f"A média final é {media:.2f}")
-        break  # sai do loop se deu tudo certo
-    except ValueError:
+    except:
         print("Erro: digite apenas números válidos!")
+![Resultado](cmd/cmd.png)
