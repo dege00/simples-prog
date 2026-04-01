@@ -15,4 +15,4 @@ while True:
         print(f"A média final é {media:.2f}")
     except:
         print("Erro: digite apenas números válidos!")
-![Resultado](cmd/cmd.png)
+![resultadokkk](cmd/cmd.png)
